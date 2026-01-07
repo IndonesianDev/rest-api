@@ -159,7 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **IndDev** - [IndonesianDev](https://github.com/IndonesianDev)
+- **IndonesianDev** - [IndonesianDev](https://github.com/IndonesianDev)
 
 ## 🙏 Acknowledgments
 
